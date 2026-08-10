@@ -1,3 +1,2 @@
-# AI-CHATBOX-FILE
-
-SMART CHAT AI
+# AI CHATBOT FILE
+smart chat AI
